@@ -62,6 +62,6 @@ docker-compose exec <название котнейнера web приложен�
 
 
 Разрабатывали проект:
-Живов Игорь - https://github.com/Jloogle 
-Кожушкевич Александр - https://github.com/kazhuha 
-Александр Белей - https://github.com/connectoid
+* Кожушкевич Александр - https://github.com/kazhuha 
+* Живов Игорь - https://github.com/Jloogle 
+* Александр Белей - https://github.com/connectoid
